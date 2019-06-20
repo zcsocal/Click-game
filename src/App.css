@@ -1,0 +1,9 @@
+.title {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+
+  body {
+    background-color: black !important;
+}

@@ -1,0 +1,20 @@
+.wrapper {
+    background: white;
+    background-color: white;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto; 
+    /* padding-bottom: 30px; */
+    color: white;
+  }
+
+  .jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #000;
+}
