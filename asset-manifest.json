@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.091d7afc.chunk.css",
-    "main.js": "/static/js/main.c686adc0.chunk.js",
-    "main.js.map": "/static/js/main.c686adc0.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.548e0644.chunk.js": "/static/js/2.548e0644.chunk.js",
-    "static/js/2.548e0644.chunk.js.map": "/static/js/2.548e0644.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bc956362313d6e8072bd702d0d36bca8.js": "/precache-manifest.bc956362313d6e8072bd702d0d36bca8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.091d7afc.chunk.css.map": "/static/css/main.091d7afc.chunk.css.map"
+    "main.css": "/click-app/static/css/main.091d7afc.chunk.css",
+    "main.js": "/click-app/static/js/main.c686adc0.chunk.js",
+    "main.js.map": "/click-app/static/js/main.c686adc0.chunk.js.map",
+    "runtime~main.js": "/click-app/static/js/runtime~main.2901b539.js",
+    "runtime~main.js.map": "/click-app/static/js/runtime~main.2901b539.js.map",
+    "static/js/2.548e0644.chunk.js": "/click-app/static/js/2.548e0644.chunk.js",
+    "static/js/2.548e0644.chunk.js.map": "/click-app/static/js/2.548e0644.chunk.js.map",
+    "index.html": "/click-app/index.html",
+    "precache-manifest.e9cd95823efa7c1c6a1ad0c6b56df1d3.js": "/click-app/precache-manifest.e9cd95823efa7c1c6a1ad0c6b56df1d3.js",
+    "service-worker.js": "/click-app/service-worker.js",
+    "static/css/main.091d7afc.chunk.css.map": "/click-app/static/css/main.091d7afc.chunk.css.map"
   }
 }
